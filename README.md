@@ -22,7 +22,7 @@ My Principles are to never give up even with a hundreds of errors I'll stand up 
 ## 📶 Conntact me:
 
 <p align="left">
-<a href="https://discordapp.com/user/507901602292695042" target="_blank"><img align="center" src="/icons/discord-icon.svg" alt="discord" height="40" width="40"></a>
+<a href="https://discordapp.com/users/507901602292695042" target="_blank"> <img align="center" src="/icons/discord-icon.svg" alt="discord" height="40" width="40"></a>
 <a href="https://www.instagram.com/yassinebabay/?hl=fr" target="_blank"><img align="center" src="/icons/icons8-instagram-48.png" alt="instagram" height="40" width="40"></a>
 <a href="https://www.facebook.com/yassine.babay.06" target="_blank"><img align="center" src="/icons/icons8-facebook-64.png" alt="facebook" height="40" width="40"></a>
 </p>
